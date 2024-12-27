@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD95A3D-9112-4980-9DB8-D64762F4BB7D}|Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos.csproj|c:\\users\\usuario\\documents\\sitema_mantenimientoequipos\\sitema_mantenimientoequipos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6FD95A3D-9112-4980-9DB8-D64762F4BB7D}|Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos.csproj|solutionrelative:sitema_mantenimientoequipos\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD95A3D-9112-4980-9DB8-D64762F4BB7D}|Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos.csproj|C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\sitema_mantenimientoequipos\\vistas\\equipo.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD95A3D-9112-4980-9DB8-D64762F4BB7D}|Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos.csproj|solutionrelative:sitema_mantenimientoequipos\\vistas\\equipo.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD95A3D-9112-4980-9DB8-D64762F4BB7D}|Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos.csproj|C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\sitema_mantenimientoequipos\\vistas\\equipo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FD95A3D-9112-4980-9DB8-D64762F4BB7D}|Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos.csproj|solutionrelative:sitema_mantenimientoequipos\\vistas\\equipo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FD95A3D-9112-4980-9DB8-D64762F4BB7D}|Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos.csproj|C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\sitema_mantenimientoequipos\\vistas\\equipo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6FD95A3D-9112-4980-9DB8-D64762F4BB7D}|Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos.csproj|solutionrelative:sitema_mantenimientoequipos\\vistas\\equipo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 288,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipo.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx.designer.cs",
+              "RelativeToolTip": "Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx.designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAACcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:37:49.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Equipo.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx.cs",
+              "RelativeDocumentMoniker": "Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx.cs",
+              "RelativeToolTip": "Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:24:23.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos\\Web.config",
+              "RelativeDocumentMoniker": "Sitema_mantenimientoEquipos\\Web.config",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos\\Web.config",
+              "RelativeToolTip": "Sitema_mantenimientoEquipos\\Web.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-24T22:05:22.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Equipo.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx",
+              "RelativeDocumentMoniker": "Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Sitema_mantenimientoEquipos\\Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx",
+              "RelativeToolTip": "Sitema_mantenimientoEquipos\\Vistas\\Equipo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-24T22:04:08.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
